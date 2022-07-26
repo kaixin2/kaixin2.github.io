@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## NCHU - ACM-ICPC社团 - 新生手册
 
-You can use the [editor on GitHub](https://github.com/kaixin2/kaixin2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 如何开始算法学习之旅？
 
-### Markdown
+>1. 掌握一门编程语言，推荐`C`语言,原因如下
+>
+>   - 在算法竞赛中最常用的编程语言是`C++`,而`C++`基于`C`之上编写的语言,因此掌握了`C`之后,再加上`C++`中`STL`工具库部分
+>
+>     在语言部分就足够了
+>
+>   - `C`是各位在大一上学期必修的一门课程,从`C`开始,即准备了算法基础,也提前完成了学业的一部分
+>
+>   - 主要学习部分包括: `基本数据类型`，`循环结构`,`数组`,`函数`，`指针`,`结构体`
+>
+>2. 准备一款`IDE`软件,推荐`DEV-C++`(*安装包及使用手册已上传至群文件夹 -`新生专用`),原因如下
+>
+>   - 安装后即可使用，无需其他配置,对于刚接触编程的各位来说,程序能以最简单的方式运行起来即可
+>   - 后续各位可以根据自己的喜好选择其他界面更友好,功能更完善的`IDE`(*如 `CLion,VScode ......`*)
+>
+>3. 对编程语言已经有一定熟悉后,就可以开始学习算法了
+>
+>   - [OI-WIKI](https://oi-wiki.org/lang/helloworld/) : 包含各种算法的理论讲解(**文字**)和题目推荐,从基础到高级,帮助你快速开始自己的算法训练
+>   - [AC-Wing](https://www.acwing.com/):  热门算法视频学习网站(**视频讲解 - 收费**)
+>   - [牛客竞赛](https://ac.nowcoder.com/acm/contest/vip-index?topCategoryFilter=14): 国内热门比赛网站,也包含大量训练题,各大高校会在上面创建比赛,邀请全国的算法编程爱好者同台竞技,同时各种官方比赛也会使用该网站进行,如ICPC区域赛,省赛等,网站本身也会定期举办小白赛,训练赛......
+>   - [洛谷](https://www.luogu.com.cn/training/list)：国内热门训练网站,包含各种训练题,其中入门题单非常适合新手训练
+>   - [Coder Force](https://codeforces.com/):  全球最受欢迎的算法竞赛网站,在这里,你可以与全球的算法竞赛选手同台竞技,就是比赛时间不太友好,因为是按俄罗斯时区算,比赛一般在晚上10:00 - 12:00
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我们会参加哪些比赛
 
-```markdown
-Syntax highlighted code block
+>1. `ICPC-ACM 区域赛 `(*3人组队赛*) 去年团队收获
+>   -  铜牌(国三等奖) - 2队
+>2. `蓝桥杯`(*个人赛* )  去年团队收获: 
+>   - 国一等奖 ：2人 
+>   - 国二等奖 ：若干  
+>   - 国三等奖 ：若干
+>3. `GPLT全国大学生团体程序设计天梯赛`(*10人组队赛 - 由社团安排组队*)  去年团队共3队参加
+>   - 国一等奖： 1队  
+>   -  国三等奖：1队
+>4. `江西省算法编程竞赛` (3人组队赛)去年团队若干队参加 收获:
+>   - 省一等奖： 2队   
+>   - 省二等奖： 2队 
+>   - 省三等奖：3队 
+>5. `其他比赛若干`
 
-# Header 1
-## Header 2
-### Header 3
+### 除了奖状,还能得到啥
 
-- Bulleted
-- List
+>1. 素拓分 
+>
+>   - 奖学金评比按绩点高低计算,公式为  `绩点 = 30%素拓分 + 70%考试成绩`
+>
+>   - 评比在一学年结束后计算一次,另外素拓分获取上限为`30`分,也就是超过`30`分按`30`分计算
+>   - 坚持训练下来的队员,单是比赛获奖加分一年超过`30`分是常态,你们吕学长去年一年素拓分加分目测在`100`以上
+>   - 软件学院素拓分评比规则 - 详情请见 群文件夹 - `新生专用`
+>
+>2. 奖金
+>
+>   - 每年学院会根据获得荣誉给与奖金鼓励
+>   - 奖金发放参考前年发放公示表(`今年滴还没开始`) - 详情见群文件夹 - `新生专用`
 
-1. Numbered
-2. List
+### 训练
 
-**Bold** and _Italic_ and `Code` text
+> 1. 我们已经在`PTA` 平台上为大家准备了一套`友好`的练习题，帮助有心提升自己的童鞋门快速入门
+> 2. `PTA`平台是各位以后课程完成作业的常用平台,会根据之后发放各位的学号进行注册,所以题目集会在各位获取学号之后正式开放
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 最后
 
-### Jekyll Themes
+​		*恭喜各位进入大学的殿堂,即将享受憧憬已久的大学生活,但也很遗憾的告诉各位，各位已经是一名`成年人`了,一言一行都要对自己负责,所以大学这宝贵的四年时光,大家要早作计划.也许最后各位不一定会留在`ACM社团`，但也希望各位能把握时光,不留遗憾,点满`专业技能点`,而不是`游戏技能点`.*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaixin2/kaixin2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
