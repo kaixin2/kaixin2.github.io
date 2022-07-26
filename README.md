@@ -1,4 +1,4 @@
-## NCHU - ACM-ICPC社团 - 新生手册
+## NCHU - ACM-ICPC集训队 - 新生手册
 
 ---
 
